@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BC1337
+- 👋 Hi, I’m Brett Comrie
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Full stack js / node / express 
 - 💞️ I’m looking to get my foot in the door of the tech scene and thrive from there.
